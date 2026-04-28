@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # QuickSeat — Concurrency Challenge (Broken Starter)
 
 **QuickSeat** is a flash sale seat booking API. When a popular event goes live, thousands of users hit the booking endpoint simultaneously.
@@ -125,3 +126,6 @@ After seeding, you have:
 
 - GitHub PR link (from `fix/concurrency-and-rate-limit` branch to `main`)
 - Video explanation (3–5 minutes, uploaded to Google Drive with public access)
+=======
+# Concurrency-Scenario
+>>>>>>> 3169edd6d2ce075c5c726fab72b0ae5cbb8be013
